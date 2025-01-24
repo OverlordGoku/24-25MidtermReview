@@ -1,0 +1,27 @@
+/* Tag Selecting */
+div{
+    background-color: red;
+}
+
+.other{
+    background-color: green;
+}
+/* ID Selecting */
+#mytext{
+    background-color: blue;
+}
+
+/* Multiple selectors
+.other,#mytext{
+    background-color: purple;
+}
+*/
+
+
+a{
+    color:aqua;
+}
+
+a:visited{
+    color: chocolate;
+}
